@@ -68,7 +68,7 @@ placeID,Rcuisine
 135052,Bar_Pub_Brewery
 135049,Seafood
 135048,Bar
-135046,Fast_Food
+135046,Mexican
 135044,Chinese
 135043,Fast_Food
 135043,Pizzeria
@@ -275,8 +275,7 @@ placeID,Rcuisine
 132853,Fast_Food
 132852,Latin_American
 132852,Mexican
-132851,American
-132851,Game
+132851,Fast_Food
 132846,International
 132845,Mexican
 132843,Mexican
@@ -382,7 +381,7 @@ placeID,Rcuisine
 132723,Mexican
 132719,Hot_Dogs
 132718,Hot_Dogs
-132717,Fast_Food
+132717,Mexican
 132715,Mexican
 132714,Mexican
 132713,American
@@ -499,7 +498,7 @@ placeID,Rcuisine
 132588,Mexican
 132587,American
 132584,Mexican
-132583,American
+132583,Fast_Food
 132582,Bakery
 132581,Dessert-Ice_Cream
 132580,Mexican
